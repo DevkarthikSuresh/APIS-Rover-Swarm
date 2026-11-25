@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.idea/
+.vscode/
+protos/Moose.proto
+controllers/**/leader_log.csv
+controllers/**/election_metrics.csv
+blockchain_*.json
+.worlds/

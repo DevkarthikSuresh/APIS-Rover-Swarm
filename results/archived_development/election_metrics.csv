@@ -1,0 +1,5 @@
+event,time,term,rover
+ELECTION_STARTED,3.752,1,moose(9)
+LEADER_ELECTED,3.88,1,moose(8)
+ELECTION_STARTED,8.68,2,moose(1)
+LEADER_ELECTED,8.808,2,moose(1)

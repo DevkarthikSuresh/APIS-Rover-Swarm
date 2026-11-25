@@ -1,0 +1,4 @@
+swarm_size,mean_recovery_s,reported_plus_minus_s,successes,trials,source
+3,4.17,0.61,5,5,INDISCON manuscript Table II
+5,3.80,0.55,5,5,INDISCON manuscript Table II
+10,3.42,0.23,5,5,INDISCON manuscript Table II

@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this research code, please cite the associated work. Publication metadata will be updated when verified."
+title: "APIS: A RAFT-Inspired Coordination and Collision Avoidance Framework for Decentralized Planetary Rover Swarms"
+authors:
+  - family-names: Suresh
+    given-names: Devkarthik
+    orcid: "https://orcid.org/0009-0002-5009-4052"
+type: software

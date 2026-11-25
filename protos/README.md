@@ -1,0 +1,3 @@
+# Local Webots asset
+
+Copy the original supplied, customized `Moose.proto` into this directory. It contains the required wheel brakes and is referenced by `../worlds/rover.wbt`. Do not replace it blindly with the stock model. The supplied asset is marked Copyright Cyberbotics Ltd., licensed for use only with Webots; its linked license could not be retrieved during packaging. It is excluded from the public archive and ignored by Git pending confirmation of redistribution terms. Keep the original header intact. See https://cyberbotics.com/webots_assets_license and https://github.com/cyberbotics/webots/blob/master/docs/guide/webots-license-agreement.md.

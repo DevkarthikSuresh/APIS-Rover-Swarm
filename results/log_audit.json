@@ -1,0 +1,59 @@
+{
+  "election_events": [
+    {
+      "event": "ELECTION_STARTED",
+      "time": "3.752",
+      "term": "1",
+      "rover": "moose(9)"
+    },
+    {
+      "event": "LEADER_ELECTED",
+      "time": "3.88",
+      "term": "1",
+      "rover": "moose(8)"
+    },
+    {
+      "event": "ELECTION_STARTED",
+      "time": "8.68",
+      "term": "2",
+      "rover": "moose(1)"
+    },
+    {
+      "event": "LEADER_ELECTED",
+      "time": "8.808",
+      "term": "2",
+      "rover": "moose(1)"
+    }
+  ],
+  "election_intervals": [
+    {
+      "term": 1,
+      "leader": "moose(8)",
+      "start_to_election_s": 0.128
+    },
+    {
+      "term": 2,
+      "leader": "moose(1)",
+      "start_to_election_s": 0.128
+    }
+  ],
+  "leader_log_valid_rows": 8860,
+  "leader_log_malformed_rows": 871,
+  "rover_row_counts": {
+    "moose": 1398,
+    "moose(1)": 1534,
+    "moose(2)": 1285,
+    "moose(3)": 998,
+    "moose(4)": 1037,
+    "moose(5)": 651,
+    "moose(6)": 565,
+    "moose(7)": 474,
+    "moose(8)": 414,
+    "moose(9)": 504
+  },
+  "observed_time_range_s": [
+    0.136,
+    544.0
+  ],
+  "warning": "Archived development logs may predate the manuscript and combine runs; they are not verified paper-trial data. Election-start latency is not crash-to-recovery latency."
+}
